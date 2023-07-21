@@ -1,0 +1,17 @@
+body{
+    background-size:40% ;
+    background-position: center;
+}
+h1{
+    font-size: 50px;
+    color: black;
+}
+button{
+    font-size: 40;
+}
+
+
+div{
+    font-size: 25;
+    color: black;
+}
